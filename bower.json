@@ -1,0 +1,23 @@
+{
+  "name": "nepali-date",
+  "authors": [
+    "Bishnu Bhusal <bishnu.bhusal111@gmail.com>"
+  ],
+  "description": "Bower package of sajan maharjan nepali date picker(http://sajanmaharjan.com.np/)",
+  "main": "",
+  "keywords": [
+    "nepali",
+    "date",
+    "picker",
+    "calender"
+  ],
+  "license": "MIT",
+  "homepage": "http://sajanmaharjan.com.np/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
